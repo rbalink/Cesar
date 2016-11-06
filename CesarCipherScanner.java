@@ -29,7 +29,7 @@ public class CesarCipherScanner {
 	}
 
 	/**
-	 * method just prints the array the console
+	 * method just prints the array on the console
 	 * 
 	 * @param array
 	 */
